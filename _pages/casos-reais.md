@@ -2,6 +2,7 @@
 layout: page
 title: Casos Reais
 permalink: /casos-reais/
+nav_order: 5
 ---
 
 # Exemplos Reais de Aplicação

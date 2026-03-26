@@ -2,6 +2,7 @@
 layout: page
 title: Ferramentas
 permalink: /ferramentas/
+nav_order: 4
 ---
 
 # Ferramentas Práticas

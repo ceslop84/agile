@@ -2,6 +2,7 @@
 layout: page
 title: Kanban
 permalink: /kanban/
+nav_order: 3
 ---
 
 # Kanban para Projetos Sociais

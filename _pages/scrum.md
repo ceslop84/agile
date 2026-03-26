@@ -2,6 +2,7 @@
 layout: page
 title: Scrum
 permalink: /scrum/
+nav_order: 2
 ---
 
 # Scrum para Projetos Sociais
