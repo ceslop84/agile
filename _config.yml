@@ -1,7 +1,7 @@
 # Site settings
 title: "Agilidade para Todos"
 description: "Site educativo sobre metodologias ágeis Scrum e Kanban aplicadas a projetos sociais"
-baseurl: "/agilidade-para-todos"
+baseurl: "/agile"
 url: "https://ceslop84.github.io"
 
 # Build settings
